@@ -1,0 +1,44 @@
+[
+    {
+        "nis": "001",
+        "nama": "Gabriel Rey",
+        "kelas": "XII RPL",
+        "jenis_kelamin": "P",
+        "alamat": "Wonosobo"
+    },
+    {
+        "nis": "002",
+        "nama": "Timothy Ronald",
+        "kelas": "XII AKL",
+        "jenis_kelamin": "L",
+        "alamat": "Kaliwiro"
+    },
+    {
+        "nis": "003",
+        "nama": "Andry Hakim",
+        "kelas": "XII PM",
+        "jenis_kelamin": "L",
+        "alamat": "Ngawi"
+    },
+    {
+        "nis": "004",
+        "nama": "Sadiaga Uno",
+        "kelas": "XII PM",
+        "jenis_kelamin": "L",
+        "alamat": "Reco"
+    },
+    {
+        "nis": "005",
+        "nama": "Aghata Chealsea",
+        "kelas": "XII AKL",
+        "jenis_kelamin": "P",
+        "alamat": "Kertek"
+    },
+    {
+        "nis": "006",
+        "nama": "Toto Sugiri",
+        "kelas": "XII RPL",
+        "jenis_kelamin": "L",
+        "alamat": "Ngentan"
+    }
+]
